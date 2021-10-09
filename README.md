@@ -51,7 +51,7 @@ Android Studio 4.2.1
 
 ## Startimi i aplikacionit
 
-Kërkimi i qytetit dhe rezultati
+
 
 ![](https://media.giphy.com/media/EKl4pqoPZvDU9XI2Us/giphy.gif)
 
@@ -64,7 +64,6 @@ Kërkimi i qytetit dhe rezultati
 
 
 
-| ![](https://media.giphy.com/media/EKl4pqoPZvDU9XI2Us/giphy.gif) | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| ![](https://media.giphy.com/media/EKl4pqoPZvDU9XI2Us/giphy.gif) | Second Header | Third Header |
+| :---: | :---: | :---: |
+| Kërkimi i qytetit dhe rezultati | Content Cell  |  Content Cell  |
