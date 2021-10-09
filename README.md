@@ -52,18 +52,13 @@ Android Studio 4.2.1
 ## Startimi i aplikacionit
 
 
+| First Header | Second Header | ![](https://media.giphy.com/media/EKl4pqoPZvDU9XI2Us/giphy.gif) |
+| :---: | :---: | :---: |
+| Content Cell | Content Cell  |  Kërkimi i qytetit dhe rezultati  |
 
-![](https://media.giphy.com/media/EKl4pqoPZvDU9XI2Us/giphy.gif)
 
 ### Anëtarët e grupit
 
 [Eldin Veliji](https://github.com/EldinVeliji)
 
 [Bleona Zenelaj](https://github.com/BleonaZenelaj)
-
-
-
-
-| First Header | Second Header | ![](https://media.giphy.com/media/EKl4pqoPZvDU9XI2Us/giphy.gif) |
-| :---: | :---: | :---: |
-| Content Cell | Content Cell  |  Kërkimi i qytetit dhe rezultati  |
