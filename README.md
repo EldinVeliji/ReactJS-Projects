@@ -17,6 +17,13 @@ Java 1.8.0
 
 Android Studio 4.2.1
 
+### Kërkesat e përgjithshme të projektit
+
+1.Te regjistrohet 
+2.Pas regjistrimit te futet ne aplikacion (Login) 
+3.Te shikoj motin ne baze te lokacionit 
+4.Per cdo ndryshim te motit, do shfaqet animacioni perkates
+
 ### Kërkesat teknike të projektit
 
 * Më shumë se një aktivitet
