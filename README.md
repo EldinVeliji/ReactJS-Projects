@@ -8,8 +8,8 @@
 
 ### Përshkrimi i aplikacionit
 
-Ideja e aplikacionit Weather app është krijimi i një aplikacioni i cili ju  lejon që me vetëm një shtypje të butonit ta dini se sa është temperatura, lagështia e ajrit, gjërësi dhe gjatësi gjeografike, etj, të një qyteti. Me anë të aplikacionit tonë do të mund të regjistroni (të kyqeni nëse veq e keni krijuar një llogari) dhe të filloni të shkruani emrin e qytetit
-që doni ta dini temperaturen e tij.
+Ideja e aplikacionit Weather app është krijimi i një aplikacioni i cili ju  lejon që me vetëm një shtypje të butonit ta dini se sa është temperatura, lagështia e ajrit, gjërësi dhe gjatësi gjeografike, etj, të një qyteti. Me anë të aplikacionit tonë do të mund të regjistroni (të kyqeni nëse veq e keni krijuar një llogari) dhe të filloni të shkruani emrin e qytetit që doni ta dini temperaturen e tij.
+Aplikacioni përdorë openweathermap API i cili është njër nga API më të përdorura për këto lloje të aplikacioneve por edhe një nga API edhe më të sakta sepse e update-on databazën e vet për cdo minutë, ashtu që rezultatet e motit të jenë sa më të sakta të mundshme
 
 ### Teknologjitë e përdorura
 Java 1.8.0
