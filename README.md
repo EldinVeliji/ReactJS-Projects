@@ -64,6 +64,6 @@ Android Studio 4.2.1
 
 
 
-| ![](https://media.giphy.com/media/EKl4pqoPZvDU9XI2Us/giphy.gif) | Second Header | Third Header |
+| First Header | Second Header | ![](https://media.giphy.com/media/EKl4pqoPZvDU9XI2Us/giphy.gif) |
 | :---: | :---: | :---: |
-| Kërkimi i qytetit dhe rezultati | Content Cell  |  Content Cell  |
+| Content Cell | Content Cell  |  Kërkimi i qytetit dhe rezultati  |
