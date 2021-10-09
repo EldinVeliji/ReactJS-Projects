@@ -13,11 +13,11 @@ temperatura, lagështia e ajrit, gjërësi dhe gjatësi gjeografike, etj, të nj
 të mund të regjistroni (të kyqeni nëse veq e keni krijuar një llogari) dhe të filloni të shkruani emrin e qytetit
 që doni ta dini temperaturen e tij.
 
-###Teknologjitë e përdorura
+### Teknologjitë e përdorura
 Java 1.8.0
 Android Studio 4.2.1
 
-###Kërkesat teknike të projektit
+### Kërkesat teknike të projektit
 
 * Më shumë se një aktivitet
 	* MainActivity
@@ -41,7 +41,7 @@ Android Studio 4.2.1
 * Mainmenu
 * Përshtatje për madhësi të ndryshme të ekranit
 
-###Anëtarët e grupit
+### Anëtarët e grupit
 
 [Eldin Veliji](https://github.com/EldinVeliji)
 
