@@ -26,7 +26,7 @@ Android Studio 4.2.1
 * Fragmente dhe menaxhim me ato
 	* LoginFragment
 	* RegisterFragment
-* Përdorimi i një API
+* Përdorimi i API
 	* Openweathermap
 * Konfigurim të permission në manifest
 	* INTERNET
