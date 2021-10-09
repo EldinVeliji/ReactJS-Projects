@@ -46,7 +46,7 @@ Android Studio 4.2.1
 
 Kërkimi i qytetit dhe rezultati
 
-![]( https://media.giphy.com/media/EKl4pqoPZvDU9XI2Us/source.mov)
+![](https://media.giphy.com/media/EKl4pqoPZvDU9XI2Us/source.mov)
 
 ### Anëtarët e grupit
 
