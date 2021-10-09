@@ -41,7 +41,8 @@ Android Studio 4.2.1
 * Mainmenu
 * Përshtatje për madhësi të ndryshme të ekranit
 
-Anëtarët e grupit
+###Anëtarët e grupit
 
 [Eldin Veliji](https://github.com/EldinVeliji)
+
 [Bleona Zenelaj](https://github.com/BleonaZenelaj)
