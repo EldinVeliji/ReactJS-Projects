@@ -12,19 +12,19 @@ Ideja e aplikacionit Weather app është krijimi i një aplikacioni i cili ju  l
 
 Aplikacioni përdorë openweathermap API i cili është njër nga API më të përdorura për këto lloje të aplikacioneve por edhe një nga API edhe më të sakta sepse e update-on databazën e vet për cdo minutë, ashtu që rezultatet e motit të jenë sa më të sakta të mundshme
 
-### Teknologjitë e përdorura
+## Teknologjitë e përdorura
 Java 1.8.0
 
 Android Studio 4.2.1
 
-### Kërkesat e përgjithshme të projektit
+## Kërkesat e përgjithshme të projektit
 
 1. Të regjistrohet
 2. Pas regjistrimit të futet në aplikacion (Login) 
 3. Të shikoj motin në bazë të lokacionit 
 4. Për cdo ndryshim të motit, të shfaqet animacioni përkatës
 
-### Kërkesat teknike të projektit
+## Kërkesat teknike të projektit
 
 * Më shumë se një aktivitet
 	* MainActivity
@@ -49,7 +49,7 @@ Android Studio 4.2.1
 * Mainmenu
 * Përshtatje për madhësi të ndryshme të ekranit
 
-### Startimi i aplikacionit
+## Startimi i aplikacionit
 
 Kërkimi i qytetit dhe rezultati
 
