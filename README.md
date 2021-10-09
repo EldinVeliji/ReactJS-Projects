@@ -19,10 +19,10 @@ Android Studio 4.2.1
 
 ### Kërkesat e përgjithshme të projektit
 
-1.Te regjistrohet 
-2.Pas regjistrimit te futet ne aplikacion (Login) 
-3.Te shikoj motin ne baze te lokacionit 
-4.Per cdo ndryshim te motit, do shfaqet animacioni perkates
+1. Të regjistrohet
+2. Pas regjistrimit të futet në aplikacion (Login) 
+3. Të shikoj motin në bazë të lokacionit 
+4. Për cdo ndryshim të motit, të shfaqet animacioni përkatës
 
 ### Kërkesat teknike të projektit
 
