@@ -54,7 +54,7 @@ Android Studio 4.2.1
 
 | First Header | Second Header | ![](https://media.giphy.com/media/EKl4pqoPZvDU9XI2Us/giphy.gif) |
 | :---: | :---: | :---: |
-| Content Cell | Content Cell  |  Kërkimi i qytetit dhe rezultati  |
+| Regjistrimi i përdoruesit | Kyqja e Përdoruesit  |  Kërkimi i qytetit dhe rezultati  |
 
 
 ### Anëtarët e grupit
