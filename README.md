@@ -42,6 +42,12 @@ Android Studio 4.2.1
 * Mainmenu
 * Përshtatje për madhësi të ndryshme të ekranit
 
+### Startimi i aplikacionit
+
+Kërkimi i qytetit dhe rezultati
+
+!(Result)[https://media.giphy.com/media/EKl4pqoPZvDU9XI2Us/giphy.gif]
+
 ### Anëtarët e grupit
 
 [Eldin Veliji](https://github.com/EldinVeliji)
